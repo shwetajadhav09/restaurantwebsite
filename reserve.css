@@ -1,0 +1,100 @@
+body {
+    background-image: url('https://cdn.wallpapersafari.com/4/78/kTmJI8.jpg');
+    background-size: 120%;
+    background-position: top;
+  /*   box-sizing: border-box; */
+    font-family: 'Raleway', sans-serif;
+    
+  }
+  
+  .lead {
+    width: 600px;
+    margin: auto;
+    color: #e10830;
+    font-size: 2em;
+  }
+  
+  label {
+    color: #b103f6;
+  }
+  .container {
+    width: 600px;
+    height: 600px;
+    margin: auto;
+  }
+  
+  form {
+   width: 100%;
+  }
+  
+  input, label {
+    width: 100%;
+    line-height: 1.5em;
+  }
+  
+  input {
+    line-height: 2em;
+  }
+  
+  .last-group, .first-group {
+  display: inline-block;
+  width: 240px;
+    margin-bottom: 30px;
+  }
+  
+  .first-group {
+    margin-right: 115px;
+  }
+  
+  .vac-group, .email-group {
+    display: inline-block;
+    
+  }
+  
+  .vac-group {
+    width: 110px;
+  }
+  
+  .vac-group input {
+    width: 85px;
+  }
+  
+  .email-group {
+    width: 290px;
+    margin-left: 195.5px;
+    padding-top: 2px;
+  }
+  
+  input:placeholder-shown,
+  input {
+    font-family: 'Raleway', sans-serif;
+    font-size: .8em;
+    font-weight: 400;
+    outline: none;
+  }
+  
+  .row {
+    width: 100%;
+  }
+  
+  button {
+    width: 200px;
+    height: 40px;
+    border-radius: 4px;
+    margin-top: 34px;
+    margin-left: 200px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1em;
+    font-weight: 500;
+    background: #46526A;
+    color: white;
+    border: none;
+    padding: 18px;
+  }
+  
+  
+  button:hover {
+    background-color: #617293;
+    cursor: pointer;
+    outline: none;
+  }
